@@ -9,21 +9,21 @@ h1{
 font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  color:#66BFBF;
+  color:#193498;
   line-height: 2;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
-  font-weight: normal;
-  color:#66BFBF;
+  font-weight: bold;
+  color:#113CFC;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  color: #113CFC;
 }
 a{
-  color:#11999E;
+  color:#193498;
   font-family: 'Montserrat', sans-serif;
   margin:10px 20px;
   text-decoration: none;
@@ -49,7 +49,7 @@ margin: 100px auto;
   margin: auto;
 }
 .top-container{
-  background-color: #142F43;
+  background-color: #69DADB;
   position: relative;
   padding-top: 100px;
 }
@@ -57,7 +57,7 @@ margin: 100px auto;
 margin: 100px 0;
 }
 .bottom-container{
-background-color: #142F43;
+background-color: #69DADB;
 padding: 50px 0 20px;
 }
 .dev{
@@ -65,7 +65,7 @@ padding: 50px 0 20px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 200px;
+  left: 150px;
   bottom: 300px;
 }
 .skill-row{
